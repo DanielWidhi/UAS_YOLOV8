@@ -1,0 +1,8 @@
+# C:/Users/MonarchR/Documents/Computer Vision/UAS_YOLOV8/data.yaml
+
+train: D:\File Kampus\Coding\SMT 5\Computer Vision\UAS_YOLOV8\train\images
+val: D:\File Kampus\Coding\SMT 5\Computer Vision\UAS_YOLOV8\valid\images
+test: D:\File Kampus\Coding\SMT 5\Computer Vision\UAS_YOLOV8\test\images
+
+nc: 2
+names: ['KaratDaunKopi', 'PengorokDaunKopi']
